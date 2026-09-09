@@ -29,4 +29,4 @@ This project demonstrates foundational Snowflake data warehousing skills, includ
 
 ## Snowflake Practice Environment
 
-![Snow/snowflake_run.png]
+![Snow](images/snowflake_run.png)
