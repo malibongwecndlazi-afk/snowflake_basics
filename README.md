@@ -24,3 +24,9 @@ This project demonstrates foundational Snowflake data warehousing skills, includ
 - Queried data from fully qualified object names:
   ```sql
   SELECT * FROM school.public.students;
+
+
+
+## Snowflake Practice Environment
+
+![Snow/snowflake_run.png
